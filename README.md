@@ -32,6 +32,7 @@ Network
 Stellar Testnet
 Screenshots
 The project includes screenshots showing:
+![Stellar dApp Screenshot](transaction-success.png.jpeg)
 Connected wallet state
 XLM balance display
 Successful XLM transaction
