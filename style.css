@@ -1,0 +1,36 @@
+body {
+background-color: lightblue;
+font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: lightblue;
+}
+button {
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+}
+button:hover {
+    background-color: darkblue;
+}
+.card {
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    width: 400px;
+    margin: 50px auto;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    width: 400px;
+    margin: 50px auto;
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
